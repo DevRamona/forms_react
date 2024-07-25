@@ -11,8 +11,10 @@ function App() {
   return (
     <>
     {/* <Forms/> */}
-    
+    {/* <div className='bg-purple-800 h-[12 rem]'> */}
     <SignUp/>
+    {/* </div> */}
+    
 
     
    
